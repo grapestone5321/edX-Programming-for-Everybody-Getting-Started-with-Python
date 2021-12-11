@@ -2,7 +2,7 @@
 
 -------
 
-#edX
+# edX
 
 ## edX-Programming-for-Everybody-(Getting-Started-with-Python)
 
