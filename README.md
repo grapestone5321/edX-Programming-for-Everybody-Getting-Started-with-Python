@@ -6,7 +6,17 @@
 
 ## edX-Programming-for-Everybody-(Getting-Started-with-Python)
 
+Welcome to The Class, Completed section
 
+### Chapter One - Why We Program?, Incomplete section
+
+### Chapter Two: Variables and Expressions, Incomplete section
+
+### Chapter Three: Conditional Code, Incomplete section
+
+### Chapter Four: Functions, Incomplete section
+
+### Chapter Five: Loops and Iteration
 
 -------
 -------
