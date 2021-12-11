@@ -18,6 +18,26 @@ Welcome to The Class, Completed section
 
 ### Chapter Five: Loops and Iteration
 
+
+-------
+
+## Python Data Structures
+
+### Welcome to Data Structures, Incomplete section
+
+### Chapter Six: Strings, Incomplete section
+
+### Chapter Seven: Files, Incomplete section
+
+### Chapter Eight: Lists, Incomplete section
+
+### Chapter Nine: Dictionaries, Incomplete section
+
+### Chapter Ten: Tuples, Incomplete section
+
+### Wrap Up, Incomplete section
+
+
 -------
 -------
 
