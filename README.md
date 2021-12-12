@@ -44,6 +44,8 @@ Welcome to The Class, Completed section
 ## Python for Everybody (PY4E)
 https://www.py4e.com
 
+
+
 Hello and welcome to my site where you learn Python even if you have no programming background.
 
 
@@ -124,6 +126,15 @@ In this section, we learn to scrape data from the network, store the data in a
 -------
 -------
 
+## Python for Everybody: Exploring Data Using Python 3
+Dr. Charles R. Severance
+
+http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf
+
+
+
+-------
+-------
 
 # Python for Everybody - Full University Python Course
 https://www.youtube.com/watch?v=8DvywoWv6fI&t=2861s
@@ -131,13 +142,6 @@ https://www.youtube.com/watch?v=8DvywoWv6fI&t=2861s
 
 freeCodeCamp.org
 
-## Python for Everybody
-https://www.py4e.com/book
-
-## Python for Everybody: Exploring Data Using Python 3
-Dr. Charles R. Severance
-
-http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf
 
 
 ### Course Contents 
