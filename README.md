@@ -27,7 +27,7 @@ Welcome to The Class, Completed section
 
 - Chapter Six: Strings, Incomplete section
 
--Chapter Seven: Files, Incomplete section
+- Chapter Seven: Files, Incomplete section
 
 - Chapter Eight: Lists, Incomplete section
 
