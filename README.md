@@ -51,7 +51,7 @@ Hello and welcome to my site where you learn Python even if you have no programm
 
 1: Installing Python
 
-The first task is to work through the installation steps including installing
+The first task is to work through the installation steps including installing Python and text editor.
 
 2: Why Program?
 
