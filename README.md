@@ -8,39 +8,121 @@
 
 Welcome to The Class, Completed section
 
-### Chapter One - Why We Program?, Incomplete section
+- Chapter One - Why We Program?, Incomplete section
 
-### Chapter Two: Variables and Expressions, Incomplete section
+- Chapter Two: Variables and Expressions, Incomplete section
 
-### Chapter Three: Conditional Code, Incomplete section
+- Chapter Three: Conditional Code, Incomplete section
 
-### Chapter Four: Functions, Incomplete section
+- Chapter Four: Functions, Incomplete section
 
-### Chapter Five: Loops and Iteration
+- Chapter Five: Loops and Iteration
 
 
 -------
 
 ## Python Data Structures
 
-### Welcome to Data Structures, Incomplete section
+- Welcome to Data Structures, Incomplete section
 
-### Chapter Six: Strings, Incomplete section
+- Chapter Six: Strings, Incomplete section
 
-### Chapter Seven: Files, Incomplete section
+-Chapter Seven: Files, Incomplete section
 
-### Chapter Eight: Lists, Incomplete section
+- Chapter Eight: Lists, Incomplete section
 
-### Chapter Nine: Dictionaries, Incomplete section
+- Chapter Nine: Dictionaries, Incomplete section
 
-### Chapter Ten: Tuples, Incomplete section
+- Chapter Ten: Tuples, Incomplete section
 
-### Wrap Up, Incomplete section
+- Wrap Up, Incomplete section
 
 
 -------
 -------
 
+## Python for Everybody (PY4E)
+https://www.py4e.com
+
+Hello and welcome to my site where you learn Python even if you have no programming background.
+
+
+1: Installing Python
+
+The first task is to work through the installation steps including installing
+
+2: Why Program?
+
+We learn why one might want to learn to program, and look at the basic issues with
+
+3: Variables, expressions and statements
+
+We learn how to make variables and store
+
+4: Conditional Execution
+
+We look at how Python executes some statements and skips others.
+
+5: Functions
+
+Take a brief look at how Python implements the 'store and use later'
+
+
+6: Loops and Iterations
+
+We look at how Python repeats statements using looping structures.
+
+7: Strings
+
+We look at how Python stores and manipulates textual data using string
+
+8: Files
+
+We learn how to open data files on your computer and read through the files using
+
+9: Lists
+
+We look at Python's simplest data structure - the list. Lists can store more
+
+
+10: Dictionaries
+
+The dictionary data structures allows us to store multiple values in an object and look
+
+
+11: Tuples
+
+The tuple is a Python data structure that is like a simple and efficient list.
+
+
+12: Regular Expressions
+
+Regular Expressions allow us to search for patterns in strings and extract data
+
+13: Network Programming
+
+We take a quick look at how data moves across the network using the HyperText
+
+14: Using Web Services
+
+Web services allow a program to access data available in a different server.
+
+
+15: Object-Oriented Programming
+
+We do a quick look at how Python supports the Object-Oriented
+
+16: Databases
+
+Databases give us very fast random access to large amounts of data. There is
+
+17: Data Visualization
+
+In this section, we learn to scrape data from the network, store the data in a
+
+
+-------
+-------
 
 
 # Python for Everybody - Full University Python Course
