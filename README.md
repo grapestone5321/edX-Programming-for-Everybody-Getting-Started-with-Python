@@ -59,7 +59,7 @@ We learn why one might want to learn to program, and look at the basic issues wi
 
 3: Variables, expressions and statements
 
-We learn how to make variables and store
+We learn how to make variables and store data in those variables.
 
 4: Conditional Execution
 
