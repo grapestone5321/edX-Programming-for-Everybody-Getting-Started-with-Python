@@ -55,7 +55,7 @@ The first task is to work through the installation steps including installing Py
 
 2: Why Program?
 
-We learn why one might want to learn to program, and look at the basic issues with
+We learn why one might want to learn to program, and look at the basic issues with learning to program.
 
 3: Variables, expressions and statements
 
