@@ -67,8 +67,7 @@ We look at how Python executes some statements and skips others.
 
 5: Functions
 
-Take a brief look at how Python implements the 'store and use later'
-
+Take a brief look at how Python implements the 'store and use later' programming pattern.
 
 6: Loops and Iterations
 
