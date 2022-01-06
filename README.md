@@ -79,7 +79,8 @@ We look at how Python stores and manipulates textual data using string variables
 
 8: Files
 
-We learn how to open data files on your computer and read through the files using
+We learn how to open data files on your computer and read through the files using Python.
+
 
 9: Lists
 
