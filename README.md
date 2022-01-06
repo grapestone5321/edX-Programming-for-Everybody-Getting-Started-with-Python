@@ -75,7 +75,7 @@ We look at how Python repeats statements using looping structures.
 
 7: Strings
 
-We look at how Python stores and manipulates textual data using string
+We look at how Python stores and manipulates textual data using string variables and functions.
 
 8: Files
 
