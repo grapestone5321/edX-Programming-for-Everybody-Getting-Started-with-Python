@@ -88,7 +88,7 @@ We look at Python's simplest data structure - the list. Lists can store more tha
 
 10: Dictionaries
 
-The dictionary data structures allows us to store multiple values in an object and look
+The dictionary data structures allows us to store multiple values in an object and look up the values by their key.
 
 
 11: Tuples
