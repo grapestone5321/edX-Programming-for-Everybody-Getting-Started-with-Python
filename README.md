@@ -84,8 +84,7 @@ We learn how to open data files on your computer and read through the files usin
 
 9: Lists
 
-We look at Python's simplest data structure - the list. Lists can store more
-
+We look at Python's simplest data structure - the list. Lists can store more than one item in a variable.
 
 10: Dictionaries
 
