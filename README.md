@@ -98,7 +98,7 @@ The tuple is a Python data structure that is like a simple and efficient list.
 
 12: Regular Expressions
 
-Regular Expressions allow us to search for patterns in strings and extract data
+Regular Expressions allow us to search for patterns in strings and extract data from strings using the regular expression programming language.
 
 13: Network Programming
 
