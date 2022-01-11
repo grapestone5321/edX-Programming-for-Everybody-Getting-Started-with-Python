@@ -102,7 +102,7 @@ Regular Expressions allow us to search for patterns in strings and extract data 
 
 13: Network Programming
 
-We take a quick look at how data moves across the network using the HyperText
+We take a quick look at how data moves across the network using the HyperText Transport Protocol (HTTP) and how we write programs to read data across the network.
 
 14: Using Web Services
 
