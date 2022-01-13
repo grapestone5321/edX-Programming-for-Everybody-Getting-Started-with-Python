@@ -111,7 +111,7 @@ Web services allow a program to access data available in a different server.
 
 15: Object-Oriented Programming
 
-We do a quick look at how Python supports the Object-Oriented
+We do a quick look at how Python supports the Object-Oriented programming pattern.
 
 16: Databases
 
