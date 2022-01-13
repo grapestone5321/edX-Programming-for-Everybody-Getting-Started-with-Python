@@ -115,7 +115,7 @@ We do a quick look at how Python supports the Object-Oriented programming patter
 
 16: Databases
 
-Databases give us very fast random access to large amounts of data. There is
+Databases give us very fast random access to large amounts of data. There is a lot of material in this chapter as we learn the Structured Query Language (SQL).
 
 17: Data Visualization
 
