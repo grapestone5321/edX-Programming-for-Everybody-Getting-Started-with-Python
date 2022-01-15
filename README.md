@@ -119,8 +119,7 @@ Databases give us very fast random access to large amounts of data. There is a l
 
 17: Data Visualization
 
-In this section, we learn to scrape data from the network, store the data in a
-
+In this section, we learn to scrape data from the network, store the data in a database and then read the data from the database to produce in in-browser visualization of the data.
 
 -------
 -------
